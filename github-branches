@@ -1,0 +1,6 @@
+git branch -a -vv
+
+  bug-fix-typo        ad95b0a Create close_pr.yml
+* main                ad95b0a [origin/main: behind 1] Create close_pr.yml
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main 964b9ab Update README for PR
